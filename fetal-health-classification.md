@@ -268,5 +268,5 @@ Power BI · Power Query · DAX · Charts · Slicers · Cards · Matrix · Table 
 
 ---
 
-> **"Every mother deserves the peace of mind that comes from safe, informed, and compassionate care, and data can be a powerful ally in making that possible."** 💚
+**"Every mother deserves the peace of mind that comes from safe, informed, and compassionate care, and data can be a powerful ally in making that possible."** 💚
 
