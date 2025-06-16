@@ -22,6 +22,7 @@ This project analyzes real clinical data from fetal monitoring (CTG exams) to fi
 - Do babies with health risks have higher heart rates?
 - Can the lack of heart rate accelerations signal danger?
 - How do key health signals behave in each risk group?
+- Which signals should be monitored more closely during the exam?
 - Are strong contractions linked to more risky cases?
 
 ---
