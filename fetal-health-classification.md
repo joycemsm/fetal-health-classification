@@ -14,7 +14,8 @@ The material supports **data-driven clinical decision-making**, helping to preve
 
 This data was originally made available by the **UCI Machine Learning Repository** and later organized and published on **Kaggle**. The dataset consists of records from **fetal heart rate monitoring exams**, also known as **cardiotocography (CTG)**. Each case was reviewed and classified by **three medical specialists**.
 
-![Screenshot 2025-06-16 at 15 17 02](https://github.com/user-attachments/assets/833ac0e7-e56e-4953-97cb-0d6893ddafed)
+
+![image](https://github.com/user-attachments/assets/832f0dbb-b954-40a7-bf2f-4ad46b5c42a0)
 
 
 
