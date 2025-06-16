@@ -8,3 +8,9 @@ This project aims to analyze clinical data obtained from CTGs to develop a **fet
 
 The material supports **data-driven clinical decision-making**, helping to prevent fetal complications and thereby **contributing to the reduction of maternal and infant mortality**.
 
+
+# Dataset Acquisition
+
+This data was originally made available by the **UCI Machine Learning Repository** and later organized and published on **Kaggle**. The dataset consists of records from **fetal heart rate monitoring exams**, also known as **cardiotocography (CTG)**. Each case was reviewed and classified by **three medical specialists**.
+
+![image](https://github.com/user-attachments/assets/a6250368-534d-4245-987b-2df853a2ba42) 
