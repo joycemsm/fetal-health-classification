@@ -1,8 +1,7 @@
-# **Fetal Health Classification**
+full-report.md
 
-Dataset: http://kaggle.com/datasets/andrewmvd/fetal-health-classification?resource=download
 
-The **reduction of infant and maternal mortality** is one of the main global goals established by the **United Nations Sustainable Development Goals (SDGs)**. The objective is that, by 2030, all countries reduce the mortality rate of children under 5 years to less than **25 per 1,000 live births**, and eliminate preventable deaths of **newborns and pregnant women**. In 2017 alone, for example, around **295,000 maternal deaths** were recorded — most of them in low-resource settings and, in the majority of cases, preventable.
+he **reduction of infant and maternal mortality** is one of the main global goals established by the **United Nations Sustainable Development Goals (SDGs)**. The objective is that, by 2030, all countries reduce the mortality rate of children under 5 years to less than **25 per 1,000 live births**, and eliminate preventable deaths of **newborns and pregnant women**. In 2017 alone, for example, around **295,000 maternal deaths** were recorded — most of them in low-resource settings and, in the majority of cases, preventable.
 
 In this context, **fetal health monitoring** through **cardiotocography (CTG)** exams presents itself as an accessible and effective solution. CTG measures the **fetal heart rate**, **baby's movements**, and **uterine contractions**, providing valuable information that helps healthcare professionals identify potential complications early in pregnancy.
 
