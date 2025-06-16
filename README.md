@@ -1,5 +1,5 @@
 
-🩺 Fetal Health Classification
+# 🩺 Fetal Health Classification
 
 This project analyzes real clinical data from fetal monitoring (CTG exams) to find patterns related to fetal health. Using Power BI, it shows how some signals, like heart rate, fetal movement, and contractions, can help detect babies with possible health risks during pregnancy.
 
@@ -7,7 +7,7 @@ This project analyzes real clinical data from fetal monitoring (CTG exams) to fi
 
 ---
 
-📌 Project Goals
+# 📌 Project Goals
 
 - Analyze 2,126 real CTG exams
 - Understand how fetal signals relate to health conditions
@@ -16,7 +16,7 @@ This project analyzes real clinical data from fetal monitoring (CTG exams) to fi
 
 ---
 
-🔍 Questions Explored
+# 🔍 Questions Explored
 
 - How is fetal health distributed in the dataset?
 - Do babies with health risks have higher heart rates?
@@ -26,7 +26,7 @@ This project analyzes real clinical data from fetal monitoring (CTG exams) to fi
 
 ---
 
-🧠 Summary
+# 🧠 Summary
 
 The dataset was explored using Power BI, with a focus on clear questions and real-world meaning. The results show that **looking at multiple signals together** helps detect possible risks better than using just one signal.
 
@@ -34,14 +34,14 @@ Simple dashboards and charts make it easier to understand how clinical signs cha
 
 ---
 
-📊 Power BI Dashboard
+# 📊 Power BI Dashboard
 
 
 Final dashboard created in Power BI. It summarizes key health signals by group and helps spot patterns quickly using filters and visuals.
 
 ---
 
-🛠️ Tools Used
+# 🛠️ Tools Used
 
 - Power BI  
 - Power Query  
@@ -52,14 +52,14 @@ Final dashboard created in Power BI. It summarizes key health signals by group a
 
 ---
 
-📁 Dataset
+# 📁 Dataset
 
 Source: Kaggle  
 🔗 [Fetal Health Classification Dataset](https://www.kaggle.com/datasets/andrewmvd/fetal-health-classification)
 
 ---
 
-✅ Conclusion
+# ✅ Conclusion
 
 This project showed how real health data can help detect early signs of risk in babies. It also helped me improve my skills with Power BI, ask the right questions, and explain results in a simple and useful way.
 
