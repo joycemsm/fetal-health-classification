@@ -1,3 +1,8 @@
+
+![images:imagemcapa](https://github.com/user-attachments/assets/0a2bf37d-c20e-45d1-bc1c-3ac21fbc3fa2)
+
+
+
 🩺 Fetal Health Classification
 
 This project analyzes real clinical data from fetal monitoring (CTG exams) to find patterns related to fetal health. Using Power BI, it shows how some signals, like heart rate, fetal movement, and contractions, can help detect babies with possible health risks during pregnancy.
