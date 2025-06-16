@@ -73,5 +73,30 @@ This data was originally made available by the **UCI Machine Learning Repository
 ---
 
 
+# Question-Oriented Approach
+
+In this project, I chose to organize the analysis around **key questions** that a doctor or healthcare professional might ask when interpreting fetal monitoring exams.
+
+---
+
+# How Is Fetal Health Distributed in the Dataset?
+
+The initial analysis shows the distribution of fetal health classifications based on cardiotocographic signals. Most fetuses were classified as **healthy (77.85%)**, while **13.88%** were labeled as **suspicious** and **8.28%** as **pathological**.
+
+This overview suggests that, although most cases fall within normal parameters, **about 1 in every 5 fetuses shows some level of clinical risk**. This highlights the importance of data-driven decision support systems capable of quickly identifying warning signs that require medical attention.
+
+---
+
+### **Note on Class Imbalance**
+
+The dataset shows a **strong imbalance among the classes**, with a predominance of healthy fetuses. This likely reflects real clinical conditions, where most exams do not indicate immediate risk.
+
+Since this project is focused on **exploratory and descriptive analysis (EDA)**, this imbalance **will not be corrected**.
+
+However, it’s important to mention, as it affects how statistics are compared across groups. The less represented categories (classes 2 and 3) are more prone to **statistical bias and sampling fluctuations**, requiring **careful interpretation** when drawing conclusions by class.
+
+![image](https://github.com/user-attachments/assets/3b7be8af-f2c2-4d3e-a726-fcf272ced4e2)
+
+
 
   
