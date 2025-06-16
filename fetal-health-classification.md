@@ -14,7 +14,7 @@ The material supports **data-driven clinical decision-making**, helping to preve
 
 This data was originally made available by the **UCI Machine Learning Repository** and later organized and published on **Kaggle**. The dataset consists of records from **fetal heart rate monitoring exams**, also known as **cardiotocography (CTG)**. Each case was reviewed and classified by **three medical specialists**.
 
-![image](https://github.com/user-attachments/assets/a6250368-534d-4245-987b-2df853a2ba42) 
+![Screenshot 2025-06-16 at 15 17 02](https://github.com/user-attachments/assets/833ac0e7-e56e-4953-97cb-0d6893ddafed)
 
 
 
@@ -258,7 +258,8 @@ Below is the Power BI dashboard developed for this project, where the main analy
 It was designed to allow quick interpretation of risk signals, with filters available by fetal group and clinical variables.
 
 
-![Screenshot 2025-06-16 at 15 13 46](https://github.com/user-attachments/assets/fc37550d-5220-4dc3-bb5d-379c6383d82d)
+![Screenshot 2025-06-16 at 15 20 17](https://github.com/user-attachments/assets/9f8d2368-9659-4e8c-aa0e-996d43c456e5)
+
 
 
 ### Tools Used:
