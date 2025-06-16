@@ -78,7 +78,7 @@ In this project, I chose to organize the analysis around **key questions** that 
 
 
 
-# How Is Fetal Health Distributed in the Dataset?
+# How is fetal health distributed in the dataset?
 
 The initial analysis shows the distribution of fetal health classifications based on cardiotocographic signals. Most fetuses were classified as **healthy (77.85%)**, while **13.88%** were labeled as **suspicious** and **8.28%** as **pathological**.
 
@@ -101,7 +101,7 @@ The chart was built in Power BI using a pie chart visual, based on the categoric
 
 
 
-# Do At-Risk Fetuses Have Higher or Lower Heart Rates?
+# Do babies with health risks have higher heart rates?
 
 In this part of the study, we analyzed the **baseline fetal heart rates** — that is, the average heart rate of the fetus at rest, measured during routine exams.
 
@@ -126,7 +126,7 @@ Then, I applied the "Average" aggregation function to display the mean heart rat
 Colors were standardized using a risk-based color code: green (healthy), yellow (suspicious), and red (pathological).
 
 
-# Can the Absence of Heart Rate Accelerations Indicate Risk?
+# Can the lack of heart rate accelerations signal danger?
 
 The chart shows that **healthy fetuses have a significantly higher average number of accelerations** (0.0040), while **suspicious and pathological cases show almost no accelerations** (0.0003 and 0.0004).
 
@@ -139,7 +139,7 @@ This reinforces the importance of evaluating **multiple indicators together**, r
 ![image](https://github.com/user-attachments/assets/70cd4d09-877b-42fd-bf1f-107955091f4e)
 
 
-# How Do Clinical Indicators Combine Within Each Fetal Risk Group?
+# How do key health signals behave in each risk group?
 
 The table below summarizes the key clinical indicators from the fetal exams, showing their average values across each risk group: **Healthy**, **Suspicious**, and **Pathological**.  
 The goal of this analysis is to observe **how the indicators behave together**, rather than looking at each variable in isolation.
@@ -221,7 +221,7 @@ The classification (High, Moderate, or Low) was based on the previous explorator
 This matrix summarizes the signals most sensitive to clinical variation and highlights their relevance for screening purposes.
 
 
-# Does a Higher Number of Contractions Increase Risk?
+# Are strong contractions linked to more risky cases?
 
 This chart shows the relationship between levels of uterine contractions (Low, Moderate, High) and fetal health classification (Healthy, Suspicious, Pathological).  
 Each bar represents the number of fetuses observed at each contraction level, broken down by risk category.
