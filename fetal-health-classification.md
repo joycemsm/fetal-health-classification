@@ -265,3 +265,8 @@ It was designed to allow quick interpretation of risk signals, with filters avai
 ### Tools Used:
 
 Power BI · Power Query · DAX · Charts · Slicers · Cards · Matrix · Table · GitHub
+
+---
+
+> **"Every mother deserves the peace of mind that comes from safe, informed, and compassionate care, and data can be a powerful ally in making that possible."** 💚
+
