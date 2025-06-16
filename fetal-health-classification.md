@@ -160,7 +160,7 @@ Each fetal group displays its own behavior and risk is not always visible in jus
 **Analyzing the data in combination** helps uncover patterns that may go unnoticed in isolated charts.
 
 
-# **Which Signals Should Be Monitored More Closely During the Exam?**
+# **Which signals should be monitored more closely during the exam?**
 
 ### **Accelerations** → **High variation**
 
